@@ -1,19 +1,19 @@
 variable "name" {
-    description = "TODO"
+    description = "name"
 }
 
 variable "machine_types" {
-    description = "TODO"
+    description = "type"
 }
 
 variable "zone" {
-    description = "TODO"
+    description = "zone"
 }
 
 variable "images" {
-    description = "TODO"
+    description = "image"
 }
 
 variable "tags" {
-    description = "TODO"
+    description = "tags"
 }
