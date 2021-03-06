@@ -2,7 +2,7 @@ provider "google" {}
 
 resource "google_compute_instance" "default" {
   name         = var.name
-  project      = "easyence-sandbox"
+  project      = var.project
   machine_type = var.machine_types
   zone         = var.zone
 
