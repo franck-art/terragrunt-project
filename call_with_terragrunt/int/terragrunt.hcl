@@ -4,7 +4,7 @@
 
 inputs = {
 
-project = "easyence-sandbox"
+project = "int-project"
 tags = ["compute-intergration"]
 
 }
