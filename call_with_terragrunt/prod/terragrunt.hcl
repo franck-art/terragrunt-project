@@ -7,7 +7,7 @@
 # Overload production variables
 inputs = {
 
-project = "easyence-tools"
+project = "prod-project"
 tags = ["compute-prod"]
 
 }
